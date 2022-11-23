@@ -1,0 +1,51 @@
+#studentData{
+    width: 30%;
+    margin: auto;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+padding: 20px;
+}
+#studentData input{
+    width: 94%;
+    padding: 10px;
+    margin-bottom: 10px;
+   
+}
+#studentData h1{
+ text-align: center;
+}
+#studentData input[type="submit"]{
+    width: 50%;
+    display: block;
+    margin: auto;
+    background-color: #008080;
+    color: white;
+    border: none;
+    border-radius:15px;
+  cursor: pointer;
+}
+#studentData input::placeholder{
+    font-size: 17px;
+}
+#dashboard{
+    padding: 10px;
+    margin: 15px;
+    border: none;
+    border-radius: 10px;
+    background-color: black;
+   
+}
+#dashboard a{
+    text-decoration: none;
+    color: white;
+    font-weight: bolder;
+}
+
+#navbar{
+    width: 90%;
+    background-color: black;
+    margin: auto;
+    font-size: xx-large;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
